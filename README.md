@@ -81,7 +81,8 @@ eu nao entendi a questao de baixo acoplamento. me explique o pq seria complicado
 
 # Conceitos
 
-- ORM: Aproxima o paradigma da orientacoes a objetos ao banco de dados relacional![[Pasted image 20250213234840.png]]
+- ORM: Aproxima o paradigma da orientacoes a objetos ao banco de dados relacional!
+
 - JPA: Especificacao baseada em interfaces, que atraves de um framework realiza operacoes de persistencia de objetos em Java - Framework comumente utilizado e o Hibernate![[Pasted image 20250213235118.png]]
 - Mapeamentos: Aspectos das anotacoes de mapeamento do JPA(o que nossas classes tem que ter)
 	- Identificacao
@@ -89,8 +90,9 @@ eu nao entendi a questao de baixo acoplamento. me explique o pq seria complicado
 	- Relacionamento
 	- Heranca
 	- Persistencia
-	![[Pasted image 20250213235417.png]]
-- EntityManager: ![[Pasted image 20250213235623.png]]
+	
+- EntityManager: ![image](https://github.com/user-attachments/assets/4051eaaf-2f6a-47ad-970b-02ae63d9d714)
+
 
 # Conexao com Postgres
 
@@ -125,4 +127,7 @@ basta adicionar este trecho de codigo:
 ```
 
 Com isso, podemos iniciar o nosso codigo, onde o mesmo ja fara todas as implementacoes e inserir o usuario que esta no codigo. 
-Toda a execucao foi um sucesso, e ja foi possivel gerar o usuario:![[Pasted image 20250214004420.png]]
+Toda a execucao foi um sucesso, e ja foi possivel gerar o usuario:
+
+![image](https://github.com/user-attachments/assets/b86766a2-1b95-4ce5-8565-bd58cc7ee2d7)
+
