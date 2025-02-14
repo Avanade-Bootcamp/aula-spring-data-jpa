@@ -1,3 +1,10 @@
+# 📌 Anotações do Bootcamp Avanade  
+
+Estas são as anotações pessoais de Gabriel Rosa durante seu processo de aprendizado no bootcamp da Avanade.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/gabriel-rosaa/)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?logo=github)](https://github.com/Gabriel-Pink)
+
 # Spring Framework Fundamentos
 
 - O que e o Spring Frameword
